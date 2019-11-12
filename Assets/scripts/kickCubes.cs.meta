@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: edd3e6d69e2d2c84296ed2c865da2cec
+timeCreated: 1515469617
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlueCube: {fileID: 1974760177267002, guid: f6e78b7a0002ce14e825eabeecb236f4, type: 2}
+  - YellowCube: {fileID: 1575181816859698, guid: e1903ec3a147df14698f9ec6dd919f0b,
+      type: 2}
+  - RedCube: {fileID: 1664935293909242, guid: f682539fa691edb4f9f99f6f65dd9c62, type: 2}
+  - GreenCube: {fileID: 1098618650740488, guid: a32e177edc8351948a6ec8494e283f79,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
